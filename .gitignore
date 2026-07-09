@@ -1,0 +1,4 @@
+crypto_trades.json
+crypto_trades_export.csv
+__pycache__/
+*.pyc
